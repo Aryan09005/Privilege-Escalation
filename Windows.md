@@ -1,1 +1,2 @@
-#Windows Privilege Escalation
+# Windows Privilege Escalation
+## Initial Enumeration
