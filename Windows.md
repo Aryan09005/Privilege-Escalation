@@ -8,4 +8,5 @@ ii) systeminfo | findstr /B /C:"OS Name" /C:"OS Version" /C:"System Type" --> Mo
 iii) wmic qfe --> Patches installed
 
 iv) wmic logicaldisk  --> Disk Attached
+    
     wmic logicaldisk get caption,description,providername --> More specific
