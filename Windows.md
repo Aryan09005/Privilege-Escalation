@@ -9,4 +9,4 @@ iii) wmic qfe --> Patches installed
 
 iv) wmic logicaldisk  --> Disk Attached
     
-    wmic logicaldisk get caption,description,providername --> More specific
+|-wmic logicaldisk get caption,description,providername --> More specific
